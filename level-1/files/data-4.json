@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Mazda CX-5",
+    "type": "Внедорожник",
+    "color": "red",
+    "price": {
+      "low": "5 000 000",
+      "smallest": "2 800 000"
+    }
+  },
+  {
+    "title": "Tayota Rav-4",
+    "type": "Внедорожник",
+    "color": "white",
+    "price": {
+      "low": "7 000 000",
+      "smallest": "3 300 000"
+    }
+  },
+  {
+    "title": "Mitsubishi Outlander",
+    "type": "Внедорожник",
+    "color": "black",
+    "price": {
+      "low": "4 000 000",
+      "smallest": "2 300 000"
+    }
+  }
+]

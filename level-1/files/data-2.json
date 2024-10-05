@@ -1,0 +1,13 @@
+{
+  "name": "Иван",
+  "surname": "Дмитрачков",
+  "age": "30",
+  "avatar": {
+    "url": "/images/ava.png"
+  },
+  "role": "team lead",
+  "github": {
+    "url": "/githab/readme.md",
+    "isActive": true
+  }
+}

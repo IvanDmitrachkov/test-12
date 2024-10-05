@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Mazda CX-5",
+    "type": "Внедорожник",
+    "color": "red"
+  },
+  {
+    "title": "Tayota Rav-4",
+    "type": "Внедорожник",
+    "color": "white"
+  },
+  {
+    "title": "Mitsubishi Outlander",
+    "type": "Внедорожник",
+    "color": "black"
+  }
+]
